@@ -1,4 +1,4 @@
-$(function () {
+/*$(function () {
   $("#button_push").click(function () {
     let inputtarget = parseInt($("#inputtarget").val());
     if (isNaN(inputtarget)) {
@@ -22,3 +22,4 @@ $(function () {
     $("#total").val(total);
   });
 });
+*/
